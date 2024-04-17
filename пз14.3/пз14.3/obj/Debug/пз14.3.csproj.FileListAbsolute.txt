@@ -1,0 +1,10 @@
+C:\Users\Андрій\source\repos\пз14.3\пз14.3\bin\Debug\пз14.3.exe.config
+C:\Users\Андрій\source\repos\пз14.3\пз14.3\bin\Debug\пз14.3.exe
+C:\Users\Андрій\source\repos\пз14.3\пз14.3\bin\Debug\пз14.3.pdb
+C:\Users\Андрій\source\repos\пз14.3\пз14.3\obj\Debug\пз14.3.csproj.AssemblyReference.cache
+C:\Users\Андрій\source\repos\пз14.3\пз14.3\obj\Debug\пз14._3.Form1.resources
+C:\Users\Андрій\source\repos\пз14.3\пз14.3\obj\Debug\пз14._3.Properties.Resources.resources
+C:\Users\Андрій\source\repos\пз14.3\пз14.3\obj\Debug\пз14.3.csproj.GenerateResource.cache
+C:\Users\Андрій\source\repos\пз14.3\пз14.3\obj\Debug\пз14.3.csproj.CoreCompileInputs.cache
+C:\Users\Андрій\source\repos\пз14.3\пз14.3\obj\Debug\пз14.3.exe
+C:\Users\Андрій\source\repos\пз14.3\пз14.3\obj\Debug\пз14.3.pdb
