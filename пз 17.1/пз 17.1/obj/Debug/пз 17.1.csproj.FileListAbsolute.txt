@@ -1,0 +1,13 @@
+C:\Users\Андрій\source\repos\пз 17.1\пз 17.1\obj\Debug\пз 17.1.csproj.AssemblyReference.cache
+C:\Users\Андрій\source\repos\пз 17.1\пз 17.1\obj\Debug\пз_17._1.Form1.resources
+C:\Users\Андрій\source\repos\пз 17.1\пз 17.1\obj\Debug\пз_17._1.Properties.Resources.resources
+C:\Users\Андрій\source\repos\пз 17.1\пз 17.1\obj\Debug\пз 17.1.csproj.GenerateResource.cache
+C:\Users\Андрій\source\repos\пз 17.1\пз 17.1\obj\Debug\пз 17.1.csproj.CoreCompileInputs.cache
+C:\Users\Андрій\source\repos\пз 17.1\пз 17.1\bin\Debug\пз 17.1.exe.config
+C:\Users\Андрій\source\repos\пз 17.1\пз 17.1\bin\Debug\пз 17.1.exe
+C:\Users\Андрій\source\repos\пз 17.1\пз 17.1\bin\Debug\пз 17.1.pdb
+C:\Users\Андрій\source\repos\пз 17.1\пз 17.1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Андрій\source\repos\пз 17.1\пз 17.1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Андрій\source\repos\пз 17.1\пз 17.1\obj\Debug\пз 17.1.csproj.Up2Date
+C:\Users\Андрій\source\repos\пз 17.1\пз 17.1\obj\Debug\пз 17.1.exe
+C:\Users\Андрій\source\repos\пз 17.1\пз 17.1\obj\Debug\пз 17.1.pdb
